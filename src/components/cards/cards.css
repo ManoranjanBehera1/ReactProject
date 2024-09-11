@@ -1,0 +1,18 @@
+/* *{
+    background-color: ghostwhite;
+} */
+.card img{
+    height: 200px;
+    width: 200px;
+    padding: 10px 10px 10px 10px;
+}
+.card:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card{
+    border: none;
+}
+.card-text{
+    font-weight:bold;
+    font-size:small;
+}
